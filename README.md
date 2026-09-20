@@ -4,7 +4,6 @@ Heart disease prediction web app built with Python, scikit-learn (KNN) and Strea
 
 A machine learning web app that predicts whether a patient is likely to have heart disease from 11 clinical features. Built with Python, scikit-learn and Streamlit.
 
-**Live demo:** _add your Streamlit link here after deploying_
 
 ## Features
 
