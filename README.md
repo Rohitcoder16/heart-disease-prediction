@@ -1,6 +1,6 @@
 # heart-disease-prediction
 Heart disease prediction web app built with Python, scikit-learn (KNN) and Streamlit. Created by ROHIT ❤️
-❤️ Heart Disease Prediction
+ Heart Disease Prediction
 
 A machine learning web app that predicts whether a patient is likely to have heart disease from 11 clinical features. Built with Python, scikit-learn and Streamlit.
 
